@@ -15,7 +15,7 @@ function App() {
       <Header />
       <BookList />
       <Button variant="contained" onClick={handleClick}>Click me!</Button>
-      Nowy commit nower 
+      Nowy ostatni commit
     </div>
   );
 }
